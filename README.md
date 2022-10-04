@@ -22,3 +22,9 @@ const _0x1e7e0e=_0x3aa1;function _0x2ae2(){const _0x220d54=['string','IDvph','vf
 # NO DEBUG
 
 ![](no-debug.png)
+
+# Demo
+
+https://praveendias1180.github.io/obfuscated/
+
+Visit. Open Dev Tools. Reload. No Debug. Loading...
